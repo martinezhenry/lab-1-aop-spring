@@ -1,0 +1,8 @@
+
+
+
+base-random-delay: random
+action-delay: delay
+
+default-max: 15
+default-min: 0
